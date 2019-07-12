@@ -1,0 +1,23 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/panguansen/github/kafka-send-async-bug-fix/target/scala-2.12/kafka-send-async-bug-fix_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/godpan/BugExample$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/panguansen/github/kafka-send-async-bug-fix/target/scala-2.12/classes/com/godpan/BugExample$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/godpan/FixExample$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/panguansen/github/kafka-send-async-bug-fix/target/scala-2.12/classes/com/godpan/FixExample$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/godpan/FixExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/panguansen/github/kafka-send-async-bug-fix/target/scala-2.12/classes/com/godpan/FixExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/godpan/BugExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/panguansen/github/kafka-send-async-bug-fix/target/scala-2.12/classes/com/godpan/BugExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/godpan/FixExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/panguansen/github/kafka-send-async-bug-fix/target/scala-2.12/classes/com/godpan/FixExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/godpan/ProducerF$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/panguansen/github/kafka-send-async-bug-fix/target/scala-2.12/classes/com/godpan/ProducerF$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/panguansen/github/kafka-send-async-bug-fix/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/godpan/ProducerF.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/panguansen/github/kafka-send-async-bug-fix/target/scala-2.12/classes/com/godpan/ProducerF.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/godpan/BugExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/panguansen/github/kafka-send-async-bug-fix/target/scala-2.12/classes/com/godpan/BugExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/godpan[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/panguansen/github/kafka-send-async-bug-fix/target/scala-2.12/classes/com/godpan[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

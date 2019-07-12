@@ -1,0 +1,16 @@
+;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/xd/y662mc816yqbnlgj39fn45ch0000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/panguansen/Library/Application Support/IntelliJIdea2018.3/Scala/launcher/sbt-structure-1.0.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+compile
+runMain
+sbt run
+run
+run-main com.alvinalexander.Foo
+runMain com.alvinalexander.Foo
+runMain com.godpan.BugExample
+runMain com.godpan.FixExample
+compile
+runMain com.godpan.BugExample
+runMain com.godpan.FixExample
+runMain com.godpan.BugExample
+runMain com.godpan.FixExample
+;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/xd/y662mc816yqbnlgj39fn45ch0000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/panguansen/Library/Application Support/IntelliJIdea2018.3/Scala/launcher/sbt-structure-1.0.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+runMain com.godpan.FixExample
