@@ -1,7 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/panguansen/github/kafka-send-async-bug-fix/src/main/scala/com/godpan/FixExample.scala:24:29: overloaded method value get with alternatives:[0m
-[0m[[0m[31merror[0m] [0m[0m  (x$1: Long,x$2: java.util.concurrent.TimeUnit)?0 <and>[0m
-[0m[[0m[31merror[0m] [0m[0m  ()?0[0m
-[0m[[0m[31merror[0m] [0m[0m cannot be applied to (Int)[0m
-[0m[[0m[31merror[0m] [0m[0m  producerF.sendAsync(data).get(4000)[0m
-[0m[[0m[31merror[0m] [0m[0m                            ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
