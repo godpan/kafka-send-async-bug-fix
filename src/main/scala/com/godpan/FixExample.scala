@@ -2,7 +2,7 @@ package com.godpan
 
 import java.util.Properties
 
-import org.apache.kafka.clients.producer.{KafkaProducer, ProducerRecord}
+import org.apache.kafka.clients.producer.{KafkaProducer, ProducerRecord, RecordMetadata}
 
 object FixExample extends App {
 
@@ -21,7 +21,9 @@ object FixExample extends App {
 
   val startTime = System.currentTimeMillis()
   val producerF = new ProducerF(producer)
-  producerF.sendAsync(data)
+  producerF.sendAsync(data,(metadata: RecordMetadata, exception: Exception) => {
+    println(s"[producerF-sendAsync] data producerRecord: ${data}, exception: ${exception}")
+  })
 
   Thread.sleep(4000)
   System.exit(0)
